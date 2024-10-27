@@ -117,7 +117,7 @@ const LocationTracker = () => {
         <CardHeader>
           <CardTitle className="flex items-center gap-2">
             <MapPin className="h-5 w-5" />
-            GPS Location Tracker
+            GPS Locator Gabrielle
           </CardTitle>
         </CardHeader>
         <CardContent>
